@@ -6,11 +6,11 @@
 <td width="50%" align="left">
   
 - Mi nombre completo es Kevin Willian Maldonado Gutierrez
-- Soy de Bolivia
+- Nacionalidad Boliviana
 - Naci en la provincia de Bermejo-Tarija
 - :mortar_board:Actualmente estoy aprendiendo programación
 
-- :mortar_board: Soy estudiante universitario **SLIIT**
+- :mortar_board: Soy estudiante de la Universidad Catolica Boliviana San Pablo
 
 - :mortar_board:Estoy estudiando ingles para llegar al nivel B2
 - 📫 Puedes enviar un mensaje a este correo **kevin.maldonado@ucb.edu.bo**
