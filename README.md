@@ -13,6 +13,7 @@
 - :mortar_board: Soy estudiante de la Universidad Catolica Boliviana San Pablo
 
 - :mortar_board:Estoy estudiando ingles para llegar al nivel B2
+- Me gradue de la "Unidad Educativa Eduardo Abaroa" de la ciudad de Bermejo
 - 📫 Puedes enviar un mensaje a este correo **kevin.maldonado@ucb.edu.bo**
   
 - Mi hobbie favorito es viajar en moto con mis amigos
