@@ -57,3 +57,10 @@
 <a href = "kevin.maldonado@ucb.edu.bo" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
+</div>
+
+#
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+
+-----
